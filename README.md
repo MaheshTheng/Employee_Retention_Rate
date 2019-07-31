@@ -15,10 +15,7 @@ Given below the different types of clssification algorithm which are use for cls
     <br>4)Support Vector Machine (SVM)
     <br>5)Logistic Regression</pre>
 
-## Contributor
-<ul style="list-style-type:disc;">
-    <li>Mahesh P Theng</li>
-</ul>
-
 ## License & copyright
-Licensed under the [MIT License](LICENSE).
+<ul style="list-style-type:disc;">
+    <li>Licensed under the [MIT License](LICENSE).</li>
+</ul>
