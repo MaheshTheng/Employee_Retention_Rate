@@ -16,6 +16,4 @@ Given below the different types of clssification algorithm which are use for cls
     <br>5)Logistic Regression</pre>
 
 ## License & copyright
-<ul style="list-style-type:disc;">
-    <li>Licensed under the [MIT License](LICENSE).</li>
-</ul>
+Licensed under the [MIT License](LICENSE)
