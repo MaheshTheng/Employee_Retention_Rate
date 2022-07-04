@@ -1,3 +1,5 @@
+[![License](https://github.com/MaheshTheng/Employee_Retention_Rate/blob/master/LICENSE)
+
 # Employee Retention Rate
 This project gives the information about the implementation of different Machine Learning algorithms used for Classification. Analysis of these algorithms is done by comparing them through confusion matrix of each algorithm, by calculating mean and deviation and through plotting Receiver Operating Characteristic (ROC) curve, also compared accuracies for each algorithm which will give in depth knowledge of performance of each algorithm. The project has used dataset of company employees and analysis is done in order to predict the employee retention rate based on experience of the employee in the respective company. Experience of the company is expressed in the dataset through standard parameters which are further used in building prediction model. By using various top machine learning algorithms prediction accuracy for the employee retention is compared which is helpful in making decision which is the best choice to implement. Dataset paramers are discussed below:
 <pre><br>1)satisfaction_level       Level of satisfaction {0–1}.
